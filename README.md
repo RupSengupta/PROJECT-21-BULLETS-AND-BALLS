@@ -1,2 +1,2 @@
-# TREX
-CHROMES NO INTERNET GAME CREATED BY P5.PLAY
+# p5.play-boilerplate
+Boiler plate for p5.play
